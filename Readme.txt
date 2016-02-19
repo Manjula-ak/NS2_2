@@ -3,8 +3,8 @@ ECEN602 HW5 NS2 Simulation
 -----------------------------------------------------------------
 
 Team Number: 10
-Member 1 # Li Wan (UIN: 824009186)
-Member 2 # Sama Avani (UIN:  724004372)
+Member 1 # Li Wan 
+Member 2 # Sama Avani 
 ---------------------------------------
 
 Description/Comments:
